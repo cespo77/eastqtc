@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_CWTzkLm3EfCu1ovU-7SFJg" name="demographics" dataPackage="_CWW24Lm3EfCu1ovU-7SFJg" Server="Localhost 127.0.0.1" FilePath="/Users/christopheresposito/Downloads/demographics.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" CsvOption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_CWW24Lm3EfCu1ovU-7SFJg" name="default" dataManager="_CWTzkLm3EfCu1ovU-7SFJg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_CWW24bm3EfCu1ovU-7SFJg" id="_w_3sMLm2EfCu1ovU-7SFJg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CWW24rm3EfCu1ovU-7SFJg" label="AccountID" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CWW247m3EfCu1ovU-7SFJg" label="Territory" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CWW25Lm3EfCu1ovU-7SFJg" label="Country" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CWW25bm3EfCu1ovU-7SFJg" label="PhoneModel" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_CWW25rm3EfCu1ovU-7SFJg" label="CustomerName" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
