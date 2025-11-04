@@ -1,1 +1,16 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_h1McULm3EfCu1ovU-7SFJg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_CWG_QLm3EfCu1ovU-7SFJg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_CWG_QLm3EfCu1ovU-7SFJg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
